@@ -1,4 +1,4 @@
-# O-o-O-Pipeline-with-I-O-Commit
+# Superscalar Out-of-Order Pipeline with In-Order Commit
 Superscalar Out-of-Order Pipeline with In-Order Commit 
 
 ![image](https://github.com/user-attachments/assets/63832daa-7bbf-4fa9-903f-38e8d842791d)
